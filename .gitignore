@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.virtual_documents/
+# data/
+# data-test/
+# pic-plotly/
+# plt-config/
